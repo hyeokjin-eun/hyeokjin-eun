@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div align="center">
   <a href="https://github.com/hyeokjin-eun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hyeokjin-eun&show_icons=true&theme=radical" />
 </a>
 </div>
 
