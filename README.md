@@ -1,7 +1,10 @@
 
 <div align="center">
   <div align="left">
-    HI
+    HI 
+    <a href="https://solved.ac/gurwls2399">
+      <img align="right" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gurwls2399" />
+    </a>
   </div>
   
   <a href="https://github.com/hyeokjin-eun">
@@ -11,8 +14,6 @@
 
 <!-- [![hyeokjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeokjin-eun)](https://github.com/anuraghazra/github-readme-stats) -->
 
----
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gurwls2399)](https://solved.ac/gurwls2399)
 
 <!-- ![hyeokjin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyeokjun-eun&count_private=true&theme=aura&show_icons=true)-->
 
