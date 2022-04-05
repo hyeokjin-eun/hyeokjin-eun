@@ -1,11 +1,16 @@
 
+<div>
+<img src="https://capsule-render.vercel.app/api?&text=hyeokjin&type=waving&color=00B5AA&height=200&section=header%20render&fontSize=90&fontColor=F0F0F0" />
+
+<!-- <div align="center">
+  <h3>
+  <span style="font-size:50px;">HYEOKJIN EUN</span>&nbsp;&nbsp;
+  <span><a href="https://solved.ac/gurwls2399"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gurwls2399"/></a></span>
+  </h3>
+  <hr>
+</div> -->
 <div align="center">
-  <a href="https://github.com/hyeokjin-eun">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=hyeokjin-eun&show_icons=true&theme=radical" />
-  </a>
-  
-  🛠 Tech Stack 🛠 <br>
-  ---
+  <h3>🛠 Tech Stack 🛠</h3>
   Techs that I've used at least once <br><br>
   <a href="#"><img src="https://img.shields.io/badge/Java-E68A10?style=flat-square&logo=java&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Spring Boot-67AA3C?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
@@ -18,6 +23,19 @@
   <a href="#"><img src="https://img.shields.io/badge/Elasticsearch-00B5AA?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>
   <br>
   <a href="#"><img src="https://img.shields.io/badge/Golnag-65CCD9?style=flat-square&logo=Go&logoColor=white"/></a>
+  <br>
+  <br>
+  
+  <h3>👋 Me</h3>
+  <a href="https://github.com/hyeokjin-eun">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hyeokjin-eun&show_icons=true&theme=radical" />
+  </a>
+  <br>
+  <br>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeokjin-eun&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Git&edge_flat=false"/></a>
+  <a href="https://hyeokjin-eun.notion.site/Me-f1bd737be7e3499fa5e836c726f6eb73"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a>
+  <a href="https://solved.ac/gurwls2399"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gurwls2399"/></a>
+</div>
 </div>
 
 <!-- [![hyeokjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeokjin-eun)](https://github.com/anuraghazra/github-readme-stats) -->
