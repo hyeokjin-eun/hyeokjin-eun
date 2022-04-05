@@ -3,7 +3,7 @@
   <div align="left">
     HI 
     <a href="https://solved.ac/gurwls2399">
-      <img align="right" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gurwls2399" />
+      <img align="left" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gurwls2399" />
     </a>
   </div>
   
