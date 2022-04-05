@@ -1,8 +1,12 @@
-### Hi there 👋
+
 <div align="center">
+  <div align="left">
+    HI
+  </div>
+  
   <a href="https://github.com/hyeokjin-eun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hyeokjin-eun&show_icons=true&theme=radical" />
-</a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=hyeokjin-eun&show_icons=true&theme=radical" />
+  </a>
 </div>
 
 <!-- [![hyeokjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeokjin-eun)](https://github.com/anuraghazra/github-readme-stats) -->
