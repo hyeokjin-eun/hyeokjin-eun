@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![hyeokjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeokjin-eun)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gurwls2399)](https://solved.ac/gurwls2399)
 
 <!-- ![hyeokjin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyeokjun-eun&count_private=true&theme=aura&show_icons=true)-->
