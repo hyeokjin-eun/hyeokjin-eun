@@ -1,5 +1,7 @@
 ### Hi there 👋
-![hyeokjin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyeokjun-eun&count_private=true&theme=aura&show_icons=true)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gurwls2399)](https://solved.ac/gurwls2399)
+
+<!-- ![hyeokjin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyeokjun-eun&count_private=true&theme=aura&show_icons=true)-->
 
 <!--
 **hyeokjin-eun/hyeokjin-eun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
