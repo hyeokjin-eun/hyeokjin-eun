@@ -1,15 +1,22 @@
 
 <div align="center">
-  <div align="left">
-    HI 
-    <a href="https://solved.ac/gurwls2399">
-      <img align="left" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gurwls2399" />
-    </a>
-  </div>
-  
   <a href="https://github.com/hyeokjin-eun">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=hyeokjin-eun&show_icons=true&theme=radical" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=hyeokjin-eun&show_icons=true&theme=radical" />
   </a>
+  
+  🛠 Tech Stack 🛠 <br>
+  ---
+  Techs that I've used at least once <br><br>
+  <a href="#"><img src="https://img.shields.io/badge/Java-E68A10?style=flat-square&logo=java&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Spring Boot-67AA3C?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Mysql-3E6E93?style=flat-square&logo=Mysql&logoColor=black"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-228EE1?style=flat-square&logo=Docker&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Golnag-65CCD9?style=flat-square&logo=Go&logoColor=white"/></a>
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/Javascript-EAD41C?style=flat-square&logo=Javascript&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-050407?style=flat-square&logo=Linux&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=Git&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Elasticsearch-00B5AA?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>
 </div>
 
 <!-- [![hyeokjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeokjin-eun)](https://github.com/anuraghazra/github-readme-stats) -->
