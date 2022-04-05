@@ -1,8 +1,9 @@
 ### Hi there 👋
 <div align="center">
-[![hyeokjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeokjin-eun)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=hyeokjin-eun)](https://github.com/anuraghazra/github-readme-stats" />
 </div>
 
+<!-- [![hyeokjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeokjin-eun)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gurwls2399)](https://solved.ac/gurwls2399)
