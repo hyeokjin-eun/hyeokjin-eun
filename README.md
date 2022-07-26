@@ -33,7 +33,7 @@
   <br>
   <br>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeokjin-eun&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Git&edge_flat=false"/></a>
-  <a href="https://hyeokjin-eun.notion.site/Me-f1bd737be7e3499fa5e836c726f6eb73"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a>
+  <a href="https://hyeokjin-eun.notion.site/6483b9aee4ca4e20aa4c0b65dfa1bf2d"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a>
   <a href="https://solved.ac/gurwls2399"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gurwls2399"/></a>
 </div>
 </div>
